@@ -1,7 +1,7 @@
 import React from 'react'
 import { portfolio } from '../../Data'
 import { RiLink } from "react-icons/ri";
-import './Portfolio.css'
+import './portfolio.css'
 
 const Portfolio = () => {
   return (
